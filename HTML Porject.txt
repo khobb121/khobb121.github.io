@@ -1,4 +1,4 @@
 <html>
 <head>
-<title><p>Kristina Hobbs</p></title>
+<title><p><b>Kristina Hobbs</b></p></title>
 </head>
