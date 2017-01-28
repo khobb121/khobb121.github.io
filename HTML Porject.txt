@@ -7,15 +7,11 @@
 		<h1>Kristina Hobbs</h1>
 		<img src="20150915384211-2.jpg" style="width:250px; height:350px">
 		<p>Junior in Greenville, South Carolina</p>
-		<br>
 		<p> I am a Junior Biblical Counseling major studying at Bob Jones University. I work in the Den at Papa Johns and Cuppa Jones.</p>
-		<br>
 		<p> I enjoy participating on the worship team at my churc, Palmetto Baptist. I also travel to Greenwood one Sunday a month to volunteer on the Palmetto nursing home outreach.</p>
-		<br>
 		<p> My hobbies are playing the piano, hiking, and researching interior design>
 		<br>
 		<p><b>EDUCATION</b></p>
-		<br>
 		<p>Biblical Counsing major</p>
 		<p>Bob Jones University</p>
 	</body>
